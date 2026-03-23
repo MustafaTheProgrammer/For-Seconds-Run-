@@ -1,0 +1,3 @@
+Henry is a game developer. He recently considered himself finished with his game. He went to playtest it, but left the room as the game was running. A problem he had unchecked though was how he replaced the while loop that makes the game loop with a for loop that could eventually terminate and end.
+
+You play as the main character of the game and have to speed towards the end. Go through the city and sewers, and destroy robots as you try making it to the end before it's too late.
